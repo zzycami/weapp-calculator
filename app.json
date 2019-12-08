@@ -4,8 +4,7 @@
   ],
   "window": {
     "navigationBarBackgroundColor": "#000",
-    "backgroundColor": "#000",
-    "navigationBarBackgroundColor": "#000"
+    "backgroundColor": "#000"
   },
   "networkTimeout": {
     "request": 10000,
@@ -13,5 +12,6 @@
     "uploadFile": 10000,
     "downloadFile": 10000
   },
-  "debug": true
+  "debug": true,
+  "sitemapLocation": "sitemap.json"
 }
